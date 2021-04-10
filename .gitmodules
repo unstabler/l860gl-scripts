@@ -1,0 +1,6 @@
+[submodule "xmm7560-pci"]
+	path = xmm7560-pci
+	url = https://github.com/unstabler/xmm7360-pci.git
+[submodule "net-wwan-iosm"]
+	path = net-wwan-iosm
+	url = https://github.com/x42/net-wwan-iosm.git
